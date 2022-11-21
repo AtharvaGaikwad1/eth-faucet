@@ -9,4 +9,4 @@ To run this locally  follow these steps:-
 3. finally hit npm start to start it on your local host.
 
 
-If you wnat to edit the smart contracts, do changes in contracts folder and run truffle migrate --reset.
+If you want to edit the smart contracts, do changes in contracts folder and run truffle migrate --reset.
